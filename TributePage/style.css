@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  background: linear-gradient(135deg, #141e30, #243b55);
   color: white;
 }
 
@@ -14,13 +14,11 @@ body {
 .hero {
   text-align: center;
   padding: 70px 20px;
-  background: linear-gradient(135deg, #f7971e, #ffd200);
-  color: black;
+  background: linear-gradient(135deg, #ff512f, #dd2476);
 }
 
 .hero h1 {
   font-size: 46px;
-  letter-spacing: 1px;
 }
 
 .hero p {
@@ -47,15 +45,13 @@ body {
   height: 260px;
   border-radius: 20px;
   object-fit: cover;
-  padding: 6px;
-  background: white;
-  box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
 
 
 .content h2 {
   margin-bottom: 10px;
-  color: #f7971e;
+  color: #dd2476;
   font-size: 24px;
 }
 
@@ -65,7 +61,6 @@ body {
   font-size: 15.5px;
 }
 
-
 .content ul {
   margin-bottom: 15px;
   padding-left: 20px;
@@ -73,17 +68,15 @@ body {
 
 .content ul li {
   margin-bottom: 6px;
-  font-size: 15px;
 }
 
 
 blockquote {
   background: #f9f9f9;
   padding: 18px;
-  border-left: 6px solid #f7971e;
+  border-left: 6px solid #dd2476;
   font-style: italic;
   color: #444;
-  margin-top: 10px;
 }
 
 
